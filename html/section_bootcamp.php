@@ -7,10 +7,12 @@
         <div class="container section-content">
             <div class="row">
                 <div class="col-md-12">
-                    <div class="section-title text-center">
+                    <div class="section-title text-center" style="padding-bottom: 20px;">
                         <h3 class="main-title">Spring 2017</h3>
 
-                        <h3 class="sub-title">We hold Bootcamp in the Spring & Summer months- Check back in early 2017 for dates</h3>
+                        <h3 class="sub-title">Spring & Summer Bootcamps</h3>
+
+                        <p class="lead">Bootcamp Classes are designed to give you a total body workout and improve your overall fitness level in the shortest time possible. Expect running and rowing, athletic drills, body weight exercises, plyometrics, kettlebells, sandbags and functional movements.</p>
 
                         <span class="section-line"></span>
                     </div>
@@ -20,28 +22,134 @@
             </div>
             <!-- //.row -->
 
-            <div class="row">
-                <div class="col-md-12">
-                    <div class="countdown text-center">
-                        <div class="cd-content" data-year="2017" data-month="5" data-day="1"></div>
-                    </div>
-                    <!-- /.countdown -->
-                </div>
-                <!-- //.col-md-12 -->
-            </div>
-            <!-- //.row -->
+<!--            <div class="row">-->
+<!--                <div class="col-md-12">-->
+<!--                    <div class="countdown text-center">-->
+<!--                        <div class="cd-content" data-year="2017" data-month="5" data-day="1"></div>-->
+<!--                    </div>-->
+<!--                    <!-- /.countdown -->-->
+<!--                </div>-->
+<!--                <!-- //.col-md-12 -->-->
+<!--            </div>-->
 
-          
+           <section>
+               <div class="row">
+                   <div class="col-md-12">
+                       <div class="section-title text-center">
+                           <h4 class="main-title bootcamp-title text-primary">Women’s Bootcamp</h4>
 
-            <div class="row">
-                <div class="col-md-8 col-md-offset-2">
-                    <div class="countdown-text text-center">
-                        <p class="lead">Bootcamp Classes are designed to give you a total body workout and improve your overall fitness level in the shortest time possible. Expect running and rowing, athletic drills, body weight exercises, plyometrics, kettlebells, sandbags and functional movements.</p>
-                    </div>
-                    <!-- //.countdown-text -->
-                </div>
-                <!-- //.col-md-8 col-md-offset-2 -->
-            </div>
+                           <h4 class="sub-title">9:30am Monday, Wednesday, Friday</h4>
+
+                           <p>
+                               Camp Dates: <i class="fa fa-calendar"></i> May 1st, <i class="fa fa-calendar"></i> June 1st, <i class="fa fa-calendar"></i> July 1st. <em>each camp runs 4wks (Cost is $95)</em>
+                           </p>
+
+                           <p>
+                               Mostly Body weight and the use of some training aids like medicine balls.
+                               Each class will start with a directed warm-up to get the body moving and heart rate up. Followed by a little skill review and off to the workout!
+                               Every warm up and workout will be different so you will learn more than a few key movements.
+                               After the workout there will be a cool down consisting of stretches and breath control. The entire class is an hour.
+                           </p>
+
+                           <p>
+                               <a href="/signup.php">
+                                   <button class="btn btn-sm btn-rj">
+                                       Sign Up
+                                   </button>
+                               </a>
+                           </p>
+                       </div>
+                   </div>
+                   <!-- //.col-md-12 -->
+               </div>
+
+               <div class="row">
+                   <div class="col-md-12">
+                       <div class="section-title text-center">
+                           <h4 class="main-title bootcamp-title text-primary">Coed Bootcamp</h4>
+
+                           <h4 class="sub-title">6:30pm Monday, Wednesday, Friday</h4>
+
+                           <p>
+                               Camp Dates: <i class="fa fa-calendar"></i> May 1st, <i class="fa fa-calendar"></i> July 1st. <em>each camp runs 4wks (Cost is $95)</em>
+                           </p>
+
+                           <p>
+                               Mostly Body weight and the use of some training aids like medicine balls.
+                               Each class will start with a directed warm-up to get the body moving and heart rate up. Followed by a little skill review and off to the workout!
+                               Every warm up and workout will be different so you will learn more than a few key movements.
+                               After the workout there will be a cool down consisting of stretches and breath control. The entire class is an hour.
+                           </p>
+
+                           <p>
+                               <a href="/signup.php">
+                                   <button class="btn btn-sm btn-rj">
+                                       Sign Up
+                                   </button>
+                               </a>
+                           </p>
+                       </div>
+                   </div>
+                   <!-- //.col-md-12 -->
+               </div>
+
+               <div class="row">
+                   <div class="col-md-12">
+                       <div class="section-title text-center">
+                           <h4 class="main-title bootcamp-title text-primary">Kick-Boxing and Martial Arts Bootcamp</h4>
+
+                           <h4 class="sub-title">6:30pm Monday, Wednesday, Friday</h4>
+
+                           <p>
+                               Camp Dates: <i class="fa fa-calendar"></i> June 1st. <em>camp runs 4wks (Cost is $125)</em>
+                           </p>
+
+                           <p>
+                               This class will be a kick-boxing and skills based martial arts program led by black belt instructors. Learn to punch, kick and defend yourself all while getting a workout!
+                           </p>
+
+                           <p>
+                               <a href="/signup.php">
+                                   <button class="btn btn-sm btn-rj">
+                                       Sign Up
+                                   </button>
+                               </a>
+                           </p>
+                       </div>
+                   </div>
+                   <!-- //.col-md-12 -->
+               </div>
+
+               <div class="row">
+                   <div class="col-md-12">
+                       <div class="section-title text-center">
+                           <h4 class="main-title bootcamp-title text-primary">Learn CrossFit Bootcamp</h4>
+
+                           <h4 class="sub-title">6:30pm Monday, Wednesday, Friday</h4>
+
+                           <p>
+                               Camp Dates: <i class="fa fa-calendar"></i> April 17 for 2 weeks. <em>camp runs 4wks (Cost is $75)</em>
+                           </p>
+
+                           <p>
+                               Introductory CrossFit Class, meet your coaches, learn about CrossFit and develop your skills.
+                               Each class will start with a directed warm-up to get the body moving and heart rate up. Followed by a little skill review and off to the workout!
+                               Every warm up and workout will be different so you will learn more than a few key movements.
+                               After the workout there will be a cool down consisting of stretches and breath control. The entire class is an hour.
+                           </p>
+
+                           <p>
+                               <a href="/signup.php">
+                                   <button class="btn btn-sm btn-rj">
+                                       Sign Up
+                                   </button>
+                               </a>
+                           </p>
+                       </div>
+                   </div>
+                   <!-- //.col-md-12 -->
+               </div>
+           </section>
             <!-- //.row -->
         </div>
         <!-- //.section-content -->
