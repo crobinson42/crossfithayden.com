@@ -1,0 +1,7 @@
+archive/*
+
+.idea/*
+
+*.mp4
+*.ogv
+*.webm

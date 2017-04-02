@@ -1,0 +1,23 @@
+/* IMPORT VARIABLES */
+/*---------------------------------------*/
+/*  VARIABLES
+/*---------------------------------------*/
+/*---------------------------------------*/
+/*  COLORS
+/*---------------------------------------*/
+#contact-us {
+  background-image: url("../img/section_reebok.jpg") !important;
+}
+.section {
+  background-image: url('../img/parallax_eagle_right_subdued.jpg');
+  background-repeat: no-repeat;
+  background-color: white !important;
+}
+@media (max-width: 600px) {
+  .section {
+    padding: 10px;
+  }
+}
+.subdued {
+  opacity: 0.4;
+}
