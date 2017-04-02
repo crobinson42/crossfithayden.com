@@ -1704,7 +1704,7 @@ p.s.  I drive 40 minutes each way to just work out with my team at CrossFit Hayd
                     </p>
 
                     <p>
-                        <a href="/signup.php">
+                        <a href="/signup.php?plan=spring">
                             <button type="submit" class="btn btn-lg btn-rj sign-up">
                                 Sign Up!
                             </button>
@@ -1736,7 +1736,7 @@ p.s.  I drive 40 minutes each way to just work out with my team at CrossFit Hayd
     <script src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.3/js.cookie.min.js"></script>
 
     <!-- Main JS -->
-    <script src="assets/js/main.js"></script>
+    <script src="assets/js/main.april1.js"></script>
     <script src="assets/js/spring_sale.js"></script>
 
     <!-- Animation JS (Optional) -->

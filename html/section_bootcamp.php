@@ -52,7 +52,7 @@
                            </p>
 
                            <p>
-                               <a href="/signup.php">
+                               <a href="/signup.php?plan=bcwoman">
                                    <button class="btn btn-sm btn-rj">
                                        Sign Up
                                    </button>
@@ -82,7 +82,7 @@
                            </p>
 
                            <p>
-                               <a href="/signup.php">
+                               <a href="/signup.php?plan=bccoed">
                                    <button class="btn btn-sm btn-rj">
                                        Sign Up
                                    </button>
@@ -109,7 +109,7 @@
                            </p>
 
                            <p>
-                               <a href="/signup.php">
+                               <a href="/signup.php?pan=bcmartialarts">
                                    <button class="btn btn-sm btn-rj">
                                        Sign Up
                                    </button>
@@ -139,7 +139,7 @@
                            </p>
 
                            <p>
-                               <a href="/signup.php">
+                               <a href="/signup.php?plan=bclearncf">
                                    <button class="btn btn-sm btn-rj">
                                        Sign Up
                                    </button>

@@ -532,8 +532,8 @@
     <script src="assets/plugins/notify.min.js"></script>
 
     <!-- Main JS -->
-    <script src="assets/js/main.js"></script>
-    <script src="assets/js/signup.js"></script>
+    <script src="assets/js/main.april1.js"></script>
+    <script src="assets/js/signup.april1.js"></script>
 
     <!-- Animation JS (Optional) -->
     <script src="assets/js/animation.js"></script>

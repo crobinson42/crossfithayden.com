@@ -24,6 +24,9 @@ function setPlanText (plan) {
   var $selectPlanContainer = $('.selected-plan-container')
 
   switch (plan) {
+    case "spring":
+      planText = '3 Months 25% off'
+      break
     case "personaltraining":
       planText = '1-on-1 Training'
       break
@@ -35,6 +38,18 @@ function setPlanText (plan) {
       break
     case "cf4kids":
       planText = 'Kids CrossFit'
+      break
+    case "bcwoman":
+      planText = 'Bootcamp Woman'
+      break
+    case "bccoed":
+      planText = 'Bootcamp Coed'
+      break
+    case "bcmartialarts":
+      planText = 'Bootcamp Martial Arts'
+      break
+    case "bclearncf":
+      planText = 'Bootcamp Learn CF'
       break
   }
 
