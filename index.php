@@ -5,7 +5,7 @@
 <!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
 <head>
     <meta charset="utf-8">
-    <title>CrossFit Hayden - Where Change Happens</title>
+    <title>CrossFit Hayden - Iron Sharpens Iron</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <meta name="description" content="The best crossfit gym in Coeur D Alene (CDA) & North Idaho! Come join us and improve your health & fitness!">
     <meta name="author" content="https://plus.google.com/115051926578948606886">
@@ -90,7 +90,7 @@
                         <div class="intro-text text-center">
                             <h2>CrossFit Hayden</h2>
 
-                            <p class="lead">Where Change Happens</p>
+                            <p class="lead">Iron Sharpens Iron</p>
                         </div>
                         <!-- //.intro-text -->
 
@@ -194,17 +194,17 @@
                     <div class="col-md-6">
                         <div id="carousel-who-we-are" class="owl-carousel owl-theme">
                             <div class="item">
-                                <img src="assets/img/cfh/inst1.jpg" alt="" class="img-responsive img-rounded"/>
+                                <img src="assets/img/april_1.jpg" alt="" class="img-responsive img-rounded"/>
                             </div>
                             <!-- //.item -->
 
                             <div class="item">
-                                <img src="assets/img/cfh/inst2.jpg" alt="" class="img-responsive img-rounded"/>
+                                <img src="assets/img/april_2.jpg" alt="" class="img-responsive img-rounded"/>
                             </div>
                             <!-- //.item -->
 
                             <div class="item">
-                                <img src="assets/img/cfh/inst4.jpg" alt="" class="img-responsive img-rounded"/>
+                                <img src="assets/img/april_3.jpg" alt="" class="img-responsive img-rounded"/>
                             </div>
                             <!-- //.item -->
                         </div>
@@ -217,8 +217,8 @@
                             <h4>What We Do</h4>
 
                             <p>
-                              At CrossFit Hayden you will not find rows of stationary bikes and weight machines. Instead you will find pull-up bars, kettlebells, barbells and wide open space for squatting, running, jumping, climbing, lifting and throwing – moving your body the way it is meant to be moved. It means that all your workouts will be comprised of exercises that mimic movements performed in day-to-day life or sport. You would never bicep curl your child to pick them up, so why would you do it in the gym? We focus on improving functional movements that are necessary and common in your daily activities.
-It also means that you will never get bored. With our constantly varied programming you will rarely do the same workout twice in any given year. You will never have to program your own workouts or spend hours in the gym. Instead, each day a workout will be provided for you that is scalable to suit your fitness level. And because our workouts are rarely longer than 40 minutes they can fit into even the busiest schedules.
+                              At CrossFit Hayden you will not find rows of stationary bikes and weight machines. Instead you will find pull-up bars, kettlebells, barbells and wide open space for squatting, running, jumping, climbing, lifting and throwing – moving your body the way it is meant to be moved. It means that all your workouts will be comprised of exercises that mimic movements performed in day-to-day life or sport. We focus on improving functional movements that are necessary and common in your daily activities.
+It also means that you will never get bored. With our constantly varied programming you will rarely do the same workout twice in any given year. You will never have to program your own workouts or spend hours in the gym. Instead, each day a workout will be provided for you that is scalable to suit your fitness level. Our classes are an hour long – where you will experience a proper warm- up, workout, and cool down.
                             </p>
 
                             <div class="page-scroll">
@@ -368,7 +368,7 @@ It also means that you will never get bored. With our constantly varied programm
                             <div class="content-boxes-text">
                                 <h4>Endurance</h4>
 
-                                <p>You build physical endurance and stamina</p>
+                                <p>Ability to exercise continuously for extended periods without tiring</p>
                             </div>
                             <!-- //.content-boxes-text -->
                         </div>
@@ -385,7 +385,7 @@ It also means that you will never get bored. With our constantly varied programm
                             <div class="content-boxes-text">
                                 <h4>Flexibility</h4>
 
-                                <p>Flexibility & mobility comes quickly with the movement</p>
+                                <p>The quality of bending easily without breaking</p>
                             </div>
                             <!-- //.content-boxes-text -->
                         </div>
@@ -402,7 +402,7 @@ It also means that you will never get bored. With our constantly varied programm
                             <div class="content-boxes-text">
                                 <h4>Strength</h4>
 
-                                <p>Lifting something once heavy seems so easy</p>
+                                <p>Maximal force you can apply against a load</p>
                             </div>
                             <!-- //.content-boxes-text -->
                         </div>
@@ -437,7 +437,7 @@ It also means that you will never get bored. With our constantly varied programm
                             <div class="content-boxes-text">
                                 <h4>Lifestyle</h4>
 
-                                <p>You will never regret the decision of this lifestyle choice</p>
+                                <p>On a day-to-day basis become the person you have always wanted to be</p>
                             </div>
                             <!-- //.content-boxes-text -->
                         </div>
@@ -454,7 +454,7 @@ It also means that you will never get bored. With our constantly varied programm
                             <div class="content-boxes-text">
                                 <h4>Energy</h4>
 
-                                <p>No more energy drinks to get through the work day</p>
+                                <p>Increase the strength and vitality required for sustained physical or mental activity</p>
                             </div>
                             <!-- //.content-boxes-text -->
                         </div>
@@ -482,7 +482,7 @@ It also means that you will never get bored. With our constantly varied programm
                         <div class="section-title text-center">
                             <h3 class="main-title">You And Your Skills</h3>
 
-                            <h3 class="sub-title">What Do We Need To Work On?</h3>
+                            <h3 class="sub-title">It only takes a few workouts in our box to realize where you need and want to improve</h3>
 
                             <span class="section-line"></span>
                         </div>
@@ -1631,7 +1631,7 @@ p.s.  I drive 40 minutes each way to just work out with my team at CrossFit Hayd
                             <h4>About Us</h4>
 
                             <p>
-                              CrossFit Hayden is a 2,400 sq/ft. fitness coaching facility located in the heart of Hayden, ID. We offer group and individual coaching, utilizing the CrossFit methodology. CrossFit workouts are comprised of constantly varied functional movements (like pushing, pulling, squatting, lifting, running) executed at high intensity.
+                                We are a 2,000 square foot CrossFit and Functional Movement Studio located in the heart of Hayden, ID. We offer group and individual coaching, utilizing the CrossFit methodology. CrossFit workouts are comprised of constantly varied functional movements (like pushing, pulling, squatting, lifting, running) executed at high intensity.
                             </p>
                         </div>
                         <!-- //.footer-text -->
@@ -1687,6 +1687,34 @@ p.s.  I drive 40 minutes each way to just work out with my team at CrossFit Hayd
         </div>
     </div>
 
+    <div id="modal_sale" class="modal fade" tabindex="-1" role="dialog">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title">Attention New Members!</h4>
+                </div>
+                <div class="modal-body">
+                    <h3 class="main-title">
+                        Spring Smash Sale 25% off your first 3 months
+                    </h3>
+
+                    <p class="text-muted">
+                        <em>That's over $115 in savings - whoot whoot!</em>
+                    </p>
+
+                    <p>
+                        <a href="/signup.php">
+                            <button type="submit" class="btn btn-lg btn-rj sign-up">
+                                Sign Up!
+                            </button>
+                        </a>
+                    </p>
+                </div>
+            </div><!-- /.modal-content -->
+        </div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
+
     <!-- Plugins JS -->
     <script src="assets/plugins/jquery.min.js"></script>
     <script src="assets/plugins/bootstrap/js/bootstrap.min.js"></script>
@@ -1705,9 +1733,11 @@ p.s.  I drive 40 minutes each way to just work out with my team at CrossFit Hayd
     <script src="assets/plugins/jquery-magnificPopup/jquery.magnific-popup.min.js"></script>
     <script src="assets/plugins/jquery-validation/jquery.validate.min.js"></script>
     <script src="assets/plugins/animatedModal.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.3/js.cookie.min.js"></script>
 
     <!-- Main JS -->
     <script src="assets/js/main.js"></script>
+    <script src="assets/js/spring_sale.js"></script>
 
     <!-- Animation JS (Optional) -->
     <script src="assets/js/animation.js"></script>

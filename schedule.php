@@ -214,7 +214,7 @@
                       </p>
                     </div>
                     <div class="tbl-class class-opengym">
-                      9:00 am - 12:00 pm
+                      9:30 am - 12:00 pm
                       <p>
                         Open Gym
                       </p>
@@ -222,7 +222,7 @@
                     <div class="tbl-class class-kids">
                       3:45 pm
                       <p>
-                        Kids (5-9yo)
+                        Kids/Preteen
                       </p>
                     </div>
                     <div class="tbl-class class-cf">
@@ -265,7 +265,7 @@
                       </p>
                     </div>
                     <div class="tbl-class class-opengym">
-                      9:00 am - 12:00 pm
+                      9:30 am - 12:00 pm
                       <p>
                         Open Gym
                       </p>
@@ -273,7 +273,7 @@
                     <div class="tbl-class class-preteen">
                       3:45 pm
                       <p>
-                        Preteen (10-13yo)
+                          Kids/Preteen
                       </p>
                     </div>
                     <div class="tbl-class class-cf">
@@ -316,7 +316,7 @@
                       </p>
                     </div>
                     <div class="tbl-class class-opengym">
-                      9:00 am - 12:00 pm
+                      9:30 am - 12:00 pm
                       <p>
                         Open Gym
                       </p>
@@ -324,13 +324,7 @@
                     <div class="tbl-class class-kids">
                       3:45 pm
                       <p>
-                        Kids (5-9yo)
-                      </p>
-                    </div>
-                    <div class="tbl-class class-preteen">
-                      3:45 pm
-                      <p>
-                        Preteen (10-13yo)
+                          Kids/Preteen
                       </p>
                     </div>
                     <div class="tbl-class class-cf">
@@ -361,33 +355,21 @@
                       </p>
                     </div>
                     <div class="tbl-class class-mobility">
-                      7:30 am
-                      <p>
-                        Mobility
-                      </p>
-                    </div>
-                    <div class="tbl-class class-mobility">
                       8:30 am
                       <p>
                         Mobility
                       </p>
                     </div>
-                    <div class="tbl-class class-preteen">
-                      3:45 pm
-                      <p>
-                        Preteen (10-13yo)
-                      </p>
-                    </div>
                     <div class="tbl-class class-mobility">
-                      4:30 pm
+                      5:00 pm
                       <p>
                         Mobility
                       </p>
                     </div>
-                    <div class="tbl-class class-mobility">
-                      5:30 pm
+                    <div class="tbl-class class-opengym">
+                      6:30 pm
                       <p>
-                        Mobility
+                          Open Gym
                       </p>
                     </div>
                   </td>
@@ -412,7 +394,7 @@
                       </p>
                     </div>
                     <div class="tbl-class class-opengym">
-                      9:00 am - 12:00 pm
+                      9:30 am - 12:00 pm
                       <p>
                         Open Gym
                       </p>
