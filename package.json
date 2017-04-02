@@ -5,7 +5,9 @@
   "main": "index.js",
   "watch": {
     "less": {
-      "patterns": ["assets"],
+      "patterns": [
+        "assets"
+      ],
       "extensions": "less",
       "ignore": "node_modules",
       "quiet": true
@@ -20,5 +22,9 @@
   "license": "ISC",
   "dependencies": {
     "npm-watch": "^0.1.6"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-less": "^3.3.0"
   }
 }
