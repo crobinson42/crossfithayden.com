@@ -183,7 +183,7 @@
                     <div class="col-md-3 col-md-offset-1 pricing-wrapper text-center not-right-column">
                         <div class="pricing-column plan-personaltraining">
                             <div class="plan-title">
-                                <h2>1 on 1 Training</h2>
+                                <h2>1 on 1</h2>
 
                                 <div class="pricing-box">
                                     <span class="price">

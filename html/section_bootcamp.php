@@ -109,7 +109,7 @@
                            </p>
 
                            <p>
-                               <a href="/signup.php?pan=bcmartialarts">
+                               <a href="/signup.php?plan=bcmartialarts">
                                    <button class="btn btn-sm btn-rj">
                                        Sign Up
                                    </button>
